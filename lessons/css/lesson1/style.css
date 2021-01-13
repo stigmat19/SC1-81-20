@@ -1,0 +1,40 @@
+@import "style1.css";
+p{
+    text-decoration: underline;
+    color: tomato!important;
+}
+.text_blue{
+    color: blue;
+}
+.text1{
+    background-color: green;
+    color: darkmagenta;
+}
+.italic{
+    font-style: italic;
+}
+#test{
+    background-color: green;
+}
+
+span{
+    color: blue;
+}
+#test div span{
+    background-color: green;
+}
+p span{
+    background/*-color*/: yellow;
+}
+/*
+
+sdlmsfk;m
+
+sfdlvdf
+sfsfsf
+
+
+ */
+
+
+#aaa .bbb span.aaa a#eee strong em.test3
